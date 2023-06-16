@@ -1,6 +1,6 @@
 server:
   port: 3355
-  info: master dev
+  info: master dev 1
 
 config:
   info: master dev 111-1
