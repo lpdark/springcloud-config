@@ -1,5 +1,4 @@
 server:
-  port: 3355
   info: master dev 2
 
 config:
